@@ -65,7 +65,7 @@ application/config/database.php
 ```
 http://localhost/nagarpanchayat
 ```
-7. 📸 Screenshots
+## 📸 Screenshots
 
 <img width="948" height="403" alt="image" src="https://github.com/user-attachments/assets/8ee2de0e-166d-4eb6-9bdd-d6e456135176" />
 <img width="947" height="412" alt="image" src="https://github.com/user-attachments/assets/be0a0cdb-f980-48e5-9fa8-c9645a8838af" />
