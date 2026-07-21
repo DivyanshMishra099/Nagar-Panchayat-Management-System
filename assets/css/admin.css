@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    background: #f5f7fb;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #25396f;
+}
+
+.bg-login {
+    background: linear-gradient(135deg, #f4f7ff 0%, #e7eeff 100%);
+}
+
+.admin-wrapper {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 260px;
+    background: linear-gradient(180deg, #0f172a 0%, #16213e 100%);
+    color: #fff;
+    padding: 24px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-header {
+    padding: 0 24px 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+    margin-bottom: 20px;
+}
+
+.sidebar-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.sidebar-header p {
+    margin: 4px 0 0;
+    font-size: 0.9rem;
+    color: #b9c3d8;
+}
+
+.sidebar .nav-link {
+    color: #e5ebff;
+    padding: 12px 24px;
+    transition: 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+}
+
+.sidebar .nav-link:hover,
+.sidebar .nav-link.active {
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+}
+
+.admin-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.topbar {
+    background: #fff;
+    padding: 20px 24px;
+    border-bottom: 1px solid #e7ebf1;
+}
+
+.topbar-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+
+.sidebar-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.sidebar-actions .btn,
+.topbar-actions .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 16px;
+    border-radius: 50%;
+    background: #e9f2ff;
+    color: #2563eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+}
+
+.stat-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.bg-primary { background-color: #2563eb !important; }
+.bg-success { background-color: #16a34a !important; }
+.bg-warning { background-color: #f59e0b !important; }
+.bg-danger { background-color: #dc2626 !important; }
