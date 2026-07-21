@@ -1,4 +1,4 @@
-# 🏛 Nagar Panchayat Management System
+<img width="948" height="410" alt="image" src="https://github.com/user-attachments/assets/595ece6e-4633-4beb-a2e6-4adf4195c561" /># 🏛 Nagar Panchayat Management System
 
 A bilingual Nagar Panchayat website developed using PHP, CodeIgniter 3, MySQL, Bootstrap, HTML, CSS, and JavaScript.
 
@@ -65,6 +65,16 @@ application/config/database.php
 ```
 http://localhost/nagarpanchayat
 ```
+7. 📸 Screenshots
+
+<img width="948" height="403" alt="image" src="https://github.com/user-attachments/assets/8ee2de0e-166d-4eb6-9bdd-d6e456135176" />
+<img width="947" height="412" alt="image" src="https://github.com/user-attachments/assets/be0a0cdb-f980-48e5-9fa8-c9645a8838af" />
+<img width="947" height="409" alt="image" src="https://github.com/user-attachments/assets/1156a447-3fff-4a45-904e-e3fe8338fc88" />
+<img width="948" height="410" alt="image" src="https://github.com/user-attachments/assets/ce321698-4633-4b53-93e3-6953a52327b8" />
+<img width="946" height="410" alt="image" src="https://github.com/user-attachments/assets/4df5d102-f895-4f79-a910-e6693bd59765" />
+
+
+---
 
 ## 👨‍💻 Developed By
 
